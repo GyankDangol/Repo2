@@ -8,3 +8,4 @@
 05/19/2019  04:19 PM                 0 text.txt
                1 File(s)              0 bytes
                2 Dir(s)  966,924,435,456 bytes free
+This is basic text editor
