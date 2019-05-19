@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8A1E-7E35
+
+ Directory of C:\Users\gyand\Desktop\MyProject
+
+05/19/2019  04:19 PM    <DIR>          .
+05/19/2019  04:19 PM    <DIR>          ..
+05/19/2019  04:19 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  966,924,435,456 bytes free
